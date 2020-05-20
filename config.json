@@ -23,6 +23,9 @@
     },
     "nashville": {
       "datalocation": "https://raw.githubusercontent.com/RSGInc/ActivityViz_data/master/data/nashville/"
+    },
+    "covid19": {
+      "datalocation": "https://raw.githubusercontent.com/ryanstreur/ActivityViz_data/add-new-covid-19-data/data/covid19/"
     }
   }
 }
